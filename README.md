@@ -2,8 +2,12 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/SydAsif78?style=social)
 
-<Associate Engineer Computer Networking 7+ experience Now learning Network Automation>
+Associate Engineer, Computer Networking 7+ experience and now learning Network Automation
 
+---
+
+🧰 Toolbox
+<img src=https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg>
 ---
 
 
