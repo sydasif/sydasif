@@ -3,7 +3,5 @@
 <!--
 **SydAsif/SydAsif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Associate Engineer
-Computer Networking 7+ experience
-Now learning Network Automation
+<Associate Engineer Computer Networking 7+ experience Now learning Network Automation>
 
