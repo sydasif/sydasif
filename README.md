@@ -6,10 +6,15 @@ Associate Engineer, Computer Networking 7+ experience and now learning Network A
 
 ---
 
+---
+
 🧰 Toolbox
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="linux-plain Logo" width="50" height="50"/ >
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github Logo" width="50" height="50"/>
 
 ---
+
 
 
 
