@@ -2,7 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/SydAsif78?style=social)
 
-Associate Engineer, Computer Networking 7+ experience and now learning Network Automation
+Associate Engineer, Computer Networking 7+ year's experience and now learning Network Automation.
 
 ---
 
