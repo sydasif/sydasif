@@ -2,7 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/SydAsif78?style=social)
 
-Diploma of Associate Engineer in Electronics, Computer Networking (7+ year's) experience and now learning Network Automation.
+Diploma of Associate Engineer in Electronics, Computer Networking and learning Network Automation.
 
 ---
 
