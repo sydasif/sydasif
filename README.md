@@ -65,4 +65,4 @@ Diploma of Associate Engineer in Electronics, Computer Networking and learning N
 
 [linux-training.be gives you books for free to study Linux.](http://linux-training.be/)
 
-
+[Network Automation](https://sydasif.github.io/network-automation/)
