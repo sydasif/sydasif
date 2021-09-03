@@ -5,3 +5,13 @@
 Diploma of Associate Engineer in Electronics, Computer Networking and learning Network Automation.
 
 ---
+
+### Udemy Courses
+1. Ubuntu Linux Desktop Basics
+2. Ansible for Network Engineers: Quick Start GNS3 & Ansible
+3. Ansible for Network Automation - Hnads On
+4. IP Addressing and Subnetting - Zero to Hero
+5. Python Programming for Network Engineers (Python3) 
+6. Computer Basics - Windows 7/10 Desktop IT Support Training
+
+---
