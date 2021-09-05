@@ -7,11 +7,12 @@ Diploma of Associate Engineer in Electronics, Computer Networking and learning N
 ---
 
 ### Udemy Courses
-1. Ubuntu Linux Desktop Basics
-2. Ansible for Network Engineers: Quick Start GNS3 & Ansible
-3. Ansible for Network Automation - Hnads On
-4. IP Addressing and Subnetting - Zero to Hero
-5. Python Programming for Network Engineers (Python3) 
-6. Computer Basics - Windows 7/10 Desktop IT Support Training
+1. Linux for Network Engineers: Practical Linux with GNS3
+2. Ubuntu Linux Desktop Basics
+3. Ansible for Network Engineers: Quick Start GNS3 & Ansible
+4. Ansible for Network Automation - Hnads On
+5. IP Addressing and Subnetting - Zero to Hero
+6. Python Programming for Network Engineers (Python3) 
+7. Computer Basics - Windows 7/10 Desktop IT Support Training
 
 ---
