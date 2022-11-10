@@ -2,6 +2,8 @@
 
 DAE in Electronics, Computer Networking and Network Automation.
 
+[My Ansible Book](http://ansible-book.readthedocs.io/)
+
 ---
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My Udemy Courses...***
